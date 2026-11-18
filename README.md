@@ -8,6 +8,7 @@ Minha base é automação e controle. Nos projetos abaixo, uso essa base para re
 
 | Projeto | O que faz | Stack |
 |---|---|---|
+| [**Classificador de Planilhas**](https://github.com/Victor-alrib/classificador-planilhas) | Automação entregue a um **escritório de contabilidade real** (projeto de extensão do IFSP): busca as cerca de 50 planilhas de faturamento do mês no Google Drive, classifica cada registro por regras auditáveis e envia tudo num único e-mail. | Python · pandas · openpyxl · Google Colab · pytest |
 | [**PredictLab**](https://github.com/Victor-alrib/predictlab) | Plataforma de manutenção preditiva: importa históricos de sensores, calcula MTBF/MTTR/disponibilidade, detecta anomalias e treina modelos que antecipam falhas, com validação temporal e avaliação por evento. | Python · FastAPI · scikit-learn · XGBoost · statsmodels · React |
 | [**ML Lab**](https://github.com/Victor-alrib/ml-lab) | Laboratório para treinar, avaliar e comparar modelos em dados industriais, com pré-processamento sem vazamento, baseline obrigatório e teste estatístico entre modelos. | Python · FastAPI · scikit-learn · XGBoost · React · Docker |
 | [**ControlLab**](https://github.com/Victor-alrib/controllab) | Laboratório virtual de controle (P/PI/PID) com simulação numérica verificada contra soluções analíticas por 25 testes automatizados. | Python · NumPy · SciPy · python-control · React |
@@ -16,6 +17,7 @@ Minha base é automação e controle. Nos projetos abaixo, uso essa base para re
 
 ### Tecnologias
 
+- **Automação:** Google Colab, Google Drive, envio de e-mail por SMTP
 - **Dados e ML:** Python, Pandas, NumPy, scikit-learn, XGBoost, statsmodels, SQL
 - **Engenharia:** FastAPI, pytest, React, TypeScript, Git, Docker
 - **Controle e automação:** controle PID, simulação de sistemas dinâmicos, MATLAB/Simulink, CLP e SCADA
