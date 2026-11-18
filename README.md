@@ -16,9 +16,9 @@ Minha base é automação e controle. Nos projetos abaixo, uso essa base para re
 
 ### Tecnologias
 
-**Dados e ML:** Python, Pandas, NumPy, scikit-learn, XGBoost, statsmodels, SQL
-**Engenharia:** FastAPI, pytest, React, TypeScript, Git, Docker
-**Controle e automação:** controle PID, simulação de sistemas dinâmicos, MATLAB/Simulink, CLP e SCADA
+- **Dados e ML:** Python, Pandas, NumPy, scikit-learn, XGBoost, statsmodels, SQL
+- **Engenharia:** FastAPI, pytest, React, TypeScript, Git, Docker
+- **Controle e automação:** controle PID, simulação de sistemas dinâmicos, MATLAB/Simulink, CLP e SCADA
 
 ### Como eu trabalho
 
